@@ -6,9 +6,7 @@ An internal homeowners quote intake and workflow management platform built with 
 
 # Architecture
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xinrudon98/onward-quote-intake-dashboard/main/assets/architecture.png" width="950">
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/950375aa-efb3-4f6d-bbf4-321fd3cfa0a3" />
 
 ---
 
