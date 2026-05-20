@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pyodbc
+pydantic
+pywin32
+pyinstaller
