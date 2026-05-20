@@ -6,8 +6,6 @@ An internal homeowners quote intake and workflow management platform built with 
 
 # Architecture
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/950375aa-efb3-4f6d-bbf4-321fd3cfa0a3" />
-
 <img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/18c2e278-59f5-4c06-b6a1-0ae788e46f18" />
 
 ---
